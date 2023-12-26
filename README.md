@@ -13,7 +13,7 @@
   Screenshots
 </h1>
 <div>
-![SCree](https://ik.imagekit.io/7jhzmda5xn/Screen%20Recording%202023-12-26%20at%209.22.31%E2%80%AFAM.gif?updatedAt=1703563899476)
+![](https://github.com/amardeep911/Email-Verifier/blob/main/screen.gif)
 </div>
 
 <h2>
