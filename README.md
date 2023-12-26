@@ -12,10 +12,8 @@
 <h1>
   Screenshots
 </h1>
-<div>
-![](https://github.com/amardeep911/Email-Verifier/blob/main/screen.gif)
-</div>
 
+![grab screen shot](https://github.com/amardeep911/Email-Verifier/blob/main/screen.gif)
 <h2>
   Limitation
 </h2>
